@@ -3,7 +3,7 @@ $("button").click(function() {
     $("#catflower, #catflower1").removeClass("hidden").addClass("visible");
 
     setTimeout(function() {
-        window.location.href = 'sites/kalendarz.html'; // zamień 'nazwa_strony.html' na adres docelowy
+        window.location.href = 'https://malpa101.github.io/randka/'; // zamień 'nazwa_strony.html' na adres docelowy
     }, 2500);
 
 });
